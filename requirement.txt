@@ -1,0 +1,2 @@
+matplotlib>=3.0.0   # optional, for plots
+memory_profiler     # optional, if you want line-by-line memory profiling
